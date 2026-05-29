@@ -13,11 +13,11 @@ Requirements
 
 Installation
 -------------
-Run `composer require sigedi/jasper-rest-client` or add the following to your composer.json file:
+Run `composer require angus/jasper-rest-client` or add the following to your composer.json file:
 
     {
 	    "require": {
-		    "sigedi/jasper-rest-client": "*"
+		    "angus/jasper-rest-client": "*"
 	    }
     }
 

@@ -1,5 +1,5 @@
 {
-    "name": "sigedi/jasper-rest-client",
+    "name": "angus/jasper-rest-client",
     "description": "A client for the JasperReports Server REST API",
     "license": "LGPL-3.0",
     "authors": [
