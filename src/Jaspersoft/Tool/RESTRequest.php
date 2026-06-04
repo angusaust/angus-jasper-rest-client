@@ -314,7 +314,7 @@ class RESTRequest
 
     public function getResponseBody(): ?string
     {
-        return $this->responseBody;
+        return is_bool($this->responseBody) ? null : $this->responseBody;
     }
 
     public function getResponseInfo(): mixed
